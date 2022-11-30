@@ -1,4 +1,21 @@
-# Contador
+# Contador App
+This app lets you calculate increments and decrements by defining a base number
+
+## Content
+Covers
+```
+Basic HTML & CSS
+Basic Angular (my first app :D)
+```
+## Demo
+[Try the mini-calculator](https://pabloadbes.github.io/chuck-joke/)
+## Preview
+![Preview](/src/assets/images/contador_app_preview.png)
+## Notes
+Project developed in the course "Angular: De cero a experto" (Angular: Zero to Expert). 
+Instructor: Fernando Herrera. Thanks Fernando! 
+- Twitter: @Fernando_Her85 
+- [Fernando Herrera github](https://github.com/Klerith) 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
